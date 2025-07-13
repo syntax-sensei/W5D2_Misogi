@@ -1,0 +1,7 @@
+GitLab is a DevSecOps platform that allows teams to manage the entire software development lifecycle in one application. It was founded in 2014 and is a remote-first company, meaning all of its employees work remotely from around the world. The company is incorporated in Delaware, USA.
+
+GitLab provides tools for source code management, continuous integration and deployment (CI/CD), security testing, project planning, issue tracking, code review, and more. Instead of using separate tools like GitHub for code, Jenkins for CI/CD, and Jira for project management, GitLab combines all of these into a single interface.
+
+GitLab follows an open-core business model. It offers a free community edition with basic features and paid tiers (Premium and Ultimate) with advanced capabilities such as compliance tracking, security scanning, and enterprise-grade support. Users can choose between using GitLab’s SaaS platform or deploying GitLab on their own servers (self-managed).
+
+GitLab is popular among enterprise teams, remote developers, DevOps engineers, and security teams because of its integrated workflows and automation features. It is designed to help organizations develop, test, and release software faster and more securely.
